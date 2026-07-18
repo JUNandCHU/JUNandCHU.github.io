@@ -4,8 +4,8 @@ export const siteText = {
   issue: "ISSUE 01",
   edition: "NOTES / ARCHIVE",
   year: "2026",
-  heroAccent: "관찰하고,",
-  heroMain: "실험하고, 상상합니다.",
+  
+  heroMain: "Science to Science Fiction",
   heroDescription: "과학적 질문을 기록하는 관찰자의",
   heroDescriptionSecond: "연구 노트, 짧은 소설, 일상의 여백.",
   ticker: ["materials", "interfaces", "measurement", "speculative systems"],
